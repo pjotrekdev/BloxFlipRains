@@ -1,4 +1,4 @@
-# BloflipRains
+# BloxflipRains
 
 ## Update v1.4:
 - No more chromedriver 🎉
@@ -12,7 +12,7 @@
 
 ## Information:
 - When there is a rain at [bloxflip](https://bloxflip.com) this program will notify you about the rain with some information about it
-- This code was made orgininally by @amprocode
+- This code was made orgininally by [@amprocode](https://github.com/amprocode)
 - If you want to use it check license so you know your limits
 - Virustotal for exe: https://www.virustotal.com/gui/file/9d3f79bcc45fabef48d2bf286e8f990db6f281b69a980e85414128d299c98bfb
 - If you dont trust it, its literally open source
